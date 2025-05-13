@@ -48,7 +48,9 @@ Each project highlights a specific skillset or security focus:
 ---
 
 ## 📄 Resume
-Please visit my [Notion portfolio](https://www.notion.so/Alexis-Pena-Cybersecurity-IT-Portfolio-1f249c0c45ae80d282d1f24e8392f416?pvs=4) or upload/view the resume in this repository.
+Please visit my [Notion portfolio](https://www.notion.so/Alexis-Pena-Cybersecurity-IT-Portfolio-1f249c0c45ae80d282d1f24e8392f416?pvs=4) or 
+📄 [Download My Resume](./Resume .docx)
+
 
 ---
 
